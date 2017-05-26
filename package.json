@@ -1,0 +1,20 @@
+{
+  "name": "node-instagram-fetch",
+  "version": "1.0.0",
+  "description": "Fetching user media and parsing images on frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "instagram"
+  ],
+  "author": "dusandj",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "node-fetch": "^1.7.0"
+  }
+}
