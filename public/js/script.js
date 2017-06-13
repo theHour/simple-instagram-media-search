@@ -39,6 +39,7 @@ function getData() {
                         let div1 = document.createElement('div');
                         div1.className = 'content';
 
+                        //this can be added to separate function
                         let div2 = document.createElement('div');
                         div2.className = 'card';
                         div1.appendChild(div2);
